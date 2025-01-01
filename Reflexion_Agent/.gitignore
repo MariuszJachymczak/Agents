@@ -1,0 +1,19 @@
+# Ignorowanie środowisk wirtualnych
+.venv/
+env/
+ENV/
+
+# Ignorowanie pliku .env
+.env
+
+# Ignorowanie cache Pythona
+__pycache__/
+
+# Ignorowanie plików edytorów
+*.swp
+*.swo
+*.idea/
+.vscode/
+
+# Ignorowanie logów
+*.log
