@@ -1,0 +1,11 @@
+{
+  "configurations": [
+    {
+      "type": "debugpy",
+      "request": "launch",
+      "name": "Launch Program",
+      "program": "${workspaceFolder}/Reflexion_Agent/chains.py",
+      "internalConsoleOptions": "neverOpen"
+    }
+  ]
+}
