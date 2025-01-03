@@ -1,0 +1,18 @@
+[tool.poetry]
+name = "langgraph-react"
+version = "0.1.0"
+description = ""
+authors = ["mariusz.jachymczak <mariusz.jachymczak@gazeta.pl>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+langchainhub = "^0.1.21"
+black = "^24.10.0"
+isort = "^5.13.2"
+python-dotenv = "^1.0.1"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
